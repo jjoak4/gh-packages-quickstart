@@ -1,0 +1,19 @@
+{
+  "name": "@jjoak4/gh-packages-quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjoak4/gh-packages-quickstart.git"
+  },
+  "author": "jjoak4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjoak4/gh-packages-quickstart/issues"
+  },
+  "homepage": "https://github.com/jjoak4/gh-packages-quickstart#readme"
+}
